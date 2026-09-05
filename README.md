@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures & Algorithms repository!
 
-I'm an **Electronics and Communication Engineering (ECE)** student with a strong interest in **Software Development**. This repository documents my journey of solving coding problems, improving problem-solving skills, and preparing for **Software Engineering internships and placements**.
+I'm an **Computer Science and Engineering (CSE)** student with a strong interest in **Software Development**. This repository documents my journey of solving coding problems, improving problem-solving skills, and preparing for **Software Engineering internships and placements**.
 
 ---
 
@@ -63,10 +63,10 @@ Problems are organized according to their difficulty level on LeetCode.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | - |
-| 🟡 Medium | - |
+| 🟢 Easy | 4 |
+| 🟡 Medium | 7 |
 | 🔴 Hard | - |
-| **Total** | - |
+| **Total** | 11 |
 
 ---
 
@@ -78,7 +78,7 @@ Problems are organized according to their difficulty level on LeetCode.
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering (ECE)
+- 🎓 B.Tech in Computer Science & Engineering (CSE)
 - 💻 Aspiring Software Engineer
 - 🚀 Passionate about Data Structures, Algorithms, and Software Development
 
