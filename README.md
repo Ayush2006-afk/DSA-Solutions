@@ -64,9 +64,9 @@ Problems are organized according to their difficulty level on LeetCode.
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 10 |
-| 🟡 Medium | 12 |
+| 🟡 Medium | 14 |
 | 🔴 Hard | 1 |
-| **Total** | 23 |
+| **Total** | 25 |
 
 ---
 
