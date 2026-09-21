@@ -63,10 +63,10 @@ Problems are organized according to their difficulty level on LeetCode.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 11 |
+| 🟢 Easy | 12 |
 | 🟡 Medium | 15 |
 | 🔴 Hard | 1 |
-| **Total** | 27 |
+| **Total** | 28 |
 
 ---
 
