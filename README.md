@@ -63,7 +63,7 @@ Problems are organized according to their difficulty level on LeetCode.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 16 |
+| 🟢 Easy | 17 |
 | 🟡 Medium | 18 |
 | 🔴 Hard | 1 |
 | **Total** | 35 |
